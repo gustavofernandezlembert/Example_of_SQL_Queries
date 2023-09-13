@@ -16,7 +16,7 @@ This project showcases SQL querying capabilities using a fictional insurance dat
 - `company(company-id, company-name, city)`
 - `manages(employee-id, manager-id`
 
-For a detailed report on the SQL queries and their outcomes, refer to [Insurance_Database_SQL_Report_.pdf](Insurance_Database_SQL_Report_.pdf).
+For a detailed report on the SQL queries and their outcomes, refer to [Insurance_Database_SQL_Report__.pdf](Insurance_Database_SQL_Report__.pdf).
 
 ## How to Run
 
