@@ -12,7 +12,7 @@ This project showcases SQL querying capabilities using a fictional insurance dat
 - `owns(drive-id, car-license)`
 - `participated(driver-id, car-license, report-number, damage amount)`
 
-For a detailed report on the SQL queries and their outcomes, refer to [Report.pdf](Report.pdf).
+For a detailed report on the SQL queries and their outcomes, refer to [Insurance_Database_SQL_Report_.pdf](Insurance_Database_SQL_Report_.pdf).
 
 ## How to Run
 
