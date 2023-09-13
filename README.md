@@ -11,6 +11,10 @@ This project showcases SQL querying capabilities using a fictional insurance dat
 - `accident(report-number, date, location)`
 - `owns(drive-id, car-license)`
 - `participated(driver-id, car-license, report-number, damage amount)`
+- `employee(employee-id, employee-name, street, city)`
+- `works(employee-id, company-id, salary)`
+- `company(company-id, company-name, city)`
+- `manages(employee-id, manager-id`
 
 For a detailed report on the SQL queries and their outcomes, refer to [Insurance_Database_SQL_Report_.pdf](Insurance_Database_SQL_Report_.pdf).
 
