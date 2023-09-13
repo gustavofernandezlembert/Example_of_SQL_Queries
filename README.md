@@ -16,8 +16,6 @@ For a detailed report on the SQL queries and their outcomes, refer to [Report.pd
 
 ## How to Run
 
-To execute the SQL queries, you'll need access to a relational database system that supports SQL. Import the `Schema.sql` (if provided) to set up the database, then run the queries present in `SQL_Queries.sql`.
+To execute the SQL queries, you'll need access to a relational database system that supports SQL. Import the `Schema.sql` to set up the database, then run the queries present in `SQL_Queries.sql`.
 
-## License
 
-This project is open source and available under the MIT License.
